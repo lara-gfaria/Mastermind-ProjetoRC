@@ -1,4 +1,4 @@
-# Projeto-RC
+# Mastermind-ProjectRC
 
 Programming project using sockets for client-server communication following UDP and TCP protocols.
 
